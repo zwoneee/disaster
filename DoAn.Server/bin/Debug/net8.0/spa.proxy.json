@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:58050",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\..\\doan.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

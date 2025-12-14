@@ -1,0 +1,485 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|c:\\users\\trung\\desktop\\dacn\\doan\\doan.server\\entities\\binhluan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|solutionrelative:doan.server\\entities\\binhluan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|c:\\users\\trung\\desktop\\dacn\\doan\\doan.server\\entities\\tintuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|solutionrelative:doan.server\\entities\\tintuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|c:\\users\\trung\\desktop\\dacn\\doan\\doan.server\\entities\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|solutionrelative:doan.server\\entities\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|c:\\users\\trung\\desktop\\dacn\\doan\\doan.server\\entities\\vattutrongkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|solutionrelative:doan.server\\entities\\vattutrongkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|c:\\users\\trung\\desktop\\dacn\\doan\\doan.server\\entities\\vaitro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|solutionrelative:doan.server\\entities\\vaitro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|c:\\users\\trung\\desktop\\dacn\\doan\\doan.server\\entities\\tinhnguyenvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|solutionrelative:doan.server\\entities\\tinhnguyenvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|c:\\users\\trung\\desktop\\dacn\\doan\\doan.server\\entities\\thongbaocanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|solutionrelative:doan.server\\entities\\thongbaocanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|c:\\users\\trung\\desktop\\dacn\\doan\\doan.server\\entities\\quyengop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|solutionrelative:doan.server\\entities\\quyengop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|c:\\users\\trung\\desktop\\dacn\\doan\\doan.server\\entities\\phancongtinhnguyenvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|solutionrelative:doan.server\\entities\\phancongtinhnguyenvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|c:\\users\\trung\\desktop\\dacn\\doan\\doan.server\\entities\\phancongnhiemvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|solutionrelative:doan.server\\entities\\phancongnhiemvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|c:\\users\\trung\\desktop\\dacn\\doan\\doan.server\\entities\\nhiemvucuuho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|solutionrelative:doan.server\\entities\\nhiemvucuuho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|c:\\users\\trung\\desktop\\dacn\\doan\\doan.server\\entities\\nguonluccuutro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|solutionrelative:doan.server\\entities\\nguonluccuutro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|c:\\users\\trung\\desktop\\dacn\\doan\\doan.server\\entities\\khovattu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|solutionrelative:doan.server\\entities\\khovattu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|c:\\users\\trung\\desktop\\dacn\\doan\\doan.server\\entities\\doicuuho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|solutionrelative:doan.server\\entities\\doicuuho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|c:\\users\\trung\\desktop\\dacn\\doan\\doan.server\\entities\\canhbao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|solutionrelative:doan.server\\entities\\canhbao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C9B29F-9F0A-C310-66A6-3B23AA55E0CB}|doan.client\\doan.client.esproj|c:\\users\\trung\\desktop\\dacn\\doan\\doan.client\\src\\pages\\login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{83C9B29F-9F0A-C310-66A6-3B23AA55E0CB}|doan.client\\doan.client.esproj|solutionrelative:doan.client\\src\\pages\\login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C9B29F-9F0A-C310-66A6-3B23AA55E0CB}|doan.client\\doan.client.esproj|c:\\users\\trung\\desktop\\dacn\\doan\\doan.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{83C9B29F-9F0A-C310-66A6-3B23AA55E0CB}|doan.client\\doan.client.esproj|solutionrelative:doan.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C9B29F-9F0A-C310-66A6-3B23AA55E0CB}|doan.client\\doan.client.esproj|c:\\users\\trung\\desktop\\dacn\\doan\\doan.client\\src\\services\\authservice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{83C9B29F-9F0A-C310-66A6-3B23AA55E0CB}|doan.client\\doan.client.esproj|solutionrelative:doan.client\\src\\services\\authservice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C9B29F-9F0A-C310-66A6-3B23AA55E0CB}|doan.client\\doan.client.esproj|c:\\users\\trung\\desktop\\dacn\\doan\\doan.client\\src\\assets\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{83C9B29F-9F0A-C310-66A6-3B23AA55E0CB}|doan.client\\doan.client.esproj|solutionrelative:doan.client\\src\\assets\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|c:\\users\\trung\\desktop\\dacn\\doan\\doan.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|solutionrelative:doan.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|c:\\users\\trung\\desktop\\dacn\\doan\\doan.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|solutionrelative:doan.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C9B29F-9F0A-C310-66A6-3B23AA55E0CB}|doan.client\\doan.client.esproj|c:\\users\\trung\\desktop\\dacn\\doan\\doan.client\\src\\assets\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{83C9B29F-9F0A-C310-66A6-3B23AA55E0CB}|doan.client\\doan.client.esproj|solutionrelative:doan.client\\src\\assets\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C9B29F-9F0A-C310-66A6-3B23AA55E0CB}|doan.client\\doan.client.esproj|c:\\users\\trung\\desktop\\dacn\\doan\\doan.client\\src\\layouts\\navbar.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{83C9B29F-9F0A-C310-66A6-3B23AA55E0CB}|doan.client\\doan.client.esproj|solutionrelative:doan.client\\src\\layouts\\navbar.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|c:\\users\\trung\\desktop\\dacn\\doan\\doan.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|solutionrelative:doan.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|c:\\users\\trung\\desktop\\dacn\\doan\\doan.server\\doan.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6A0FBFB2-19FA-4E4A-9BFB-C03556ED2908}|DoAn.Server\\DoAn.Server.csproj|solutionrelative:doan.server\\doan.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C9B29F-9F0A-C310-66A6-3B23AA55E0CB}|doan.client\\doan.client.esproj|c:\\users\\trung\\desktop\\dacn\\doan\\doan.client\\src\\pages\\home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{83C9B29F-9F0A-C310-66A6-3B23AA55E0CB}|doan.client\\doan.client.esproj|solutionrelative:doan.client\\src\\pages\\home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C9B29F-9F0A-C310-66A6-3B23AA55E0CB}|doan.client\\doan.client.esproj|c:\\users\\trung\\desktop\\dacn\\doan\\doan.client\\src\\pages\\register.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{83C9B29F-9F0A-C310-66A6-3B23AA55E0CB}|doan.client\\doan.client.esproj|solutionrelative:doan.client\\src\\pages\\register.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C9B29F-9F0A-C310-66A6-3B23AA55E0CB}|doan.client\\doan.client.esproj|c:\\users\\trung\\desktop\\dacn\\doan\\doan.client\\src\\services\\axiosclient.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{83C9B29F-9F0A-C310-66A6-3B23AA55E0CB}|doan.client\\doan.client.esproj|solutionrelative:doan.client\\src\\services\\axiosclient.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C9B29F-9F0A-C310-66A6-3B23AA55E0CB}|doan.client\\doan.client.esproj|c:\\users\\trung\\desktop\\dacn\\doan\\doan.client\\src\\types\\auth.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{83C9B29F-9F0A-C310-66A6-3B23AA55E0CB}|doan.client\\doan.client.esproj|solutionrelative:doan.client\\src\\types\\auth.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VaiTro.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Entities\\VaiTro.cs",
+              "RelativeDocumentMoniker": "DoAn.Server\\Entities\\VaiTro.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Entities\\VaiTro.cs",
+              "RelativeToolTip": "DoAn.Server\\Entities\\VaiTro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T08:14:48.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TinTuc.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Entities\\TinTuc.cs",
+              "RelativeDocumentMoniker": "DoAn.Server\\Entities\\TinTuc.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Entities\\TinTuc.cs",
+              "RelativeToolTip": "DoAn.Server\\Entities\\TinTuc.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T08:14:44.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TinhNguyenVien.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Entities\\TinhNguyenVien.cs",
+              "RelativeDocumentMoniker": "DoAn.Server\\Entities\\TinhNguyenVien.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Entities\\TinhNguyenVien.cs",
+              "RelativeToolTip": "DoAn.Server\\Entities\\TinhNguyenVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T08:14:40.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ThongBaoCaNhan.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Entities\\ThongBaoCaNhan.cs",
+              "RelativeDocumentMoniker": "DoAn.Server\\Entities\\ThongBaoCaNhan.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Entities\\ThongBaoCaNhan.cs",
+              "RelativeToolTip": "DoAn.Server\\Entities\\ThongBaoCaNhan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T08:14:36.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuyenGop.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Entities\\QuyenGop.cs",
+              "RelativeDocumentMoniker": "DoAn.Server\\Entities\\QuyenGop.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Entities\\QuyenGop.cs",
+              "RelativeToolTip": "DoAn.Server\\Entities\\QuyenGop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T08:14:31.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PhanCongTinhNguyenVien.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Entities\\PhanCongTinhNguyenVien.cs",
+              "RelativeDocumentMoniker": "DoAn.Server\\Entities\\PhanCongTinhNguyenVien.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Entities\\PhanCongTinhNguyenVien.cs",
+              "RelativeToolTip": "DoAn.Server\\Entities\\PhanCongTinhNguyenVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T08:14:27.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NguoiDung.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Entities\\NguoiDung.cs",
+              "RelativeDocumentMoniker": "DoAn.Server\\Entities\\NguoiDung.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Entities\\NguoiDung.cs",
+              "RelativeToolTip": "DoAn.Server\\Entities\\NguoiDung.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T08:14:12.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinhLuan.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Entities\\BinhLuan.cs",
+              "RelativeDocumentMoniker": "DoAn.Server\\Entities\\BinhLuan.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Entities\\BinhLuan.cs",
+              "RelativeToolTip": "DoAn.Server\\Entities\\BinhLuan.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T08:13:52.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VatTuTrongKho.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Entities\\VatTuTrongKho.cs",
+              "RelativeDocumentMoniker": "DoAn.Server\\Entities\\VatTuTrongKho.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Entities\\VatTuTrongKho.cs",
+              "RelativeToolTip": "DoAn.Server\\Entities\\VatTuTrongKho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T08:14:53.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PhanCongNhiemVu.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Entities\\PhanCongNhiemVu.cs",
+              "RelativeDocumentMoniker": "DoAn.Server\\Entities\\PhanCongNhiemVu.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Entities\\PhanCongNhiemVu.cs",
+              "RelativeToolTip": "DoAn.Server\\Entities\\PhanCongNhiemVu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T08:14:23.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NhiemVuCuuHo.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Entities\\NhiemVuCuuHo.cs",
+              "RelativeDocumentMoniker": "DoAn.Server\\Entities\\NhiemVuCuuHo.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Entities\\NhiemVuCuuHo.cs",
+              "RelativeToolTip": "DoAn.Server\\Entities\\NhiemVuCuuHo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T08:14:18.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NguonLucCuuTro.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Entities\\NguonLucCuuTro.cs",
+              "RelativeDocumentMoniker": "DoAn.Server\\Entities\\NguonLucCuuTro.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Entities\\NguonLucCuuTro.cs",
+              "RelativeToolTip": "DoAn.Server\\Entities\\NguonLucCuuTro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T08:14:15.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KhoVatTu.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Entities\\KhoVatTu.cs",
+              "RelativeDocumentMoniker": "DoAn.Server\\Entities\\KhoVatTu.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Entities\\KhoVatTu.cs",
+              "RelativeToolTip": "DoAn.Server\\Entities\\KhoVatTu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T08:14:09.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DoiCuuHo.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Entities\\DoiCuuHo.cs",
+              "RelativeDocumentMoniker": "DoAn.Server\\Entities\\DoiCuuHo.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Entities\\DoiCuuHo.cs",
+              "RelativeToolTip": "DoAn.Server\\Entities\\DoiCuuHo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T08:13:57.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CanhBao.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Entities\\CanhBao.cs",
+              "RelativeDocumentMoniker": "DoAn.Server\\Entities\\CanhBao.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Entities\\CanhBao.cs",
+              "RelativeToolTip": "DoAn.Server\\Entities\\CanhBao.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T08:13:57.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\doan.client\\src\\App.tsx",
+              "RelativeDocumentMoniker": "doan.client\\src\\App.tsx",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\doan.client\\src\\App.tsx",
+              "RelativeToolTip": "doan.client\\src\\App.tsx",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-01T19:09:58.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.tsx",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\doan.client\\src\\pages\\Login.tsx",
+              "RelativeDocumentMoniker": "doan.client\\src\\pages\\Login.tsx",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\doan.client\\src\\pages\\Login.tsx",
+              "RelativeToolTip": "doan.client\\src\\pages\\Login.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-01T19:09:42.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.css",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\doan.client\\src\\assets\\Login.css",
+              "RelativeDocumentMoniker": "doan.client\\src\\assets\\Login.css",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\doan.client\\src\\assets\\Login.css",
+              "RelativeToolTip": "doan.client\\src\\assets\\Login.css",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-01T19:09:26.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "authService.ts",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\doan.client\\src\\services\\authService.ts",
+              "RelativeDocumentMoniker": "doan.client\\src\\services\\authService.ts",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\doan.client\\src\\services\\authService.ts",
+              "RelativeToolTip": "doan.client\\src\\services\\authService.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-01T19:08:53.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "axiosClient.ts",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\doan.client\\src\\services\\axiosClient.ts",
+              "RelativeDocumentMoniker": "doan.client\\src\\services\\axiosClient.ts",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\doan.client\\src\\services\\axiosClient.ts",
+              "RelativeToolTip": "doan.client\\src\\services\\axiosClient.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-01T18:59:49.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Auth.ts",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\doan.client\\src\\types\\Auth.ts",
+              "RelativeDocumentMoniker": "doan.client\\src\\types\\Auth.ts",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\doan.client\\src\\types\\Auth.ts",
+              "RelativeToolTip": "doan.client\\src\\types\\Auth.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-01T18:59:04.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Navbar.css",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\doan.client\\src\\assets\\Navbar.css",
+              "RelativeDocumentMoniker": "doan.client\\src\\assets\\Navbar.css",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\doan.client\\src\\assets\\Navbar.css",
+              "RelativeToolTip": "doan.client\\src\\assets\\Navbar.css",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAswIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-01T14:33:47.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Navbar.tsx",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\doan.client\\src\\layouts\\Navbar.tsx",
+              "RelativeDocumentMoniker": "doan.client\\src\\layouts\\Navbar.tsx",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\doan.client\\src\\layouts\\Navbar.tsx",
+              "RelativeToolTip": "doan.client\\src\\layouts\\Navbar.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-01T10:49:17.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Home.tsx",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\doan.client\\src\\pages\\Home.tsx",
+              "RelativeDocumentMoniker": "doan.client\\src\\pages\\Home.tsx",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\doan.client\\src\\pages\\Home.tsx",
+              "RelativeToolTip": "doan.client\\src\\pages\\Home.tsx",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvzQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-01T10:49:44.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Register.tsx",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\doan.client\\src\\pages\\Register.tsx",
+              "RelativeDocumentMoniker": "doan.client\\src\\pages\\Register.tsx",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\doan.client\\src\\pages\\Register.tsx",
+              "RelativeToolTip": "doan.client\\src\\pages\\Register.tsx",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAAEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-01T19:26:22.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "DoAn.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\appsettings.json",
+              "RelativeToolTip": "DoAn.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-01T10:13:02.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DoAn.Server.http",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\DoAn.Server.http",
+              "RelativeDocumentMoniker": "DoAn.Server\\DoAn.Server.http",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\DoAn.Server.http",
+              "RelativeToolTip": "DoAn.Server\\DoAn.Server.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-01T10:04:33.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Program.cs",
+              "RelativeDocumentMoniker": "DoAn.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Program.cs",
+              "RelativeToolTip": "DoAn.Server\\Program.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAwwGoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T09:50:14.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "DoAn.Server\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\trung\\Desktop\\DACN\\DoAn\\DoAn.Server\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "DoAn.Server\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T09:49:50.275Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
